@@ -33,7 +33,7 @@ Metodología : Scrum.
 
 Version Control :  Git 
 
-Project Management : ack & Trello.
+Project Management : Slack & Trello.
 <br/>
 <br/>
   
