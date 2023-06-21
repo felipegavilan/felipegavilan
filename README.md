@@ -39,6 +39,7 @@ Project Management : Slack & Trello.
   
 ### Contacto
 Mail: felipegaviilan@gmail.com 
+<br/>
 Portafolio : https://portafolio-felipegavilan.vercel.app/
   
 <a href="https://www.linkedin.com/in/felipe-gavilan-b80348aa/" target="_blank">
