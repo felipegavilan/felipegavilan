@@ -3,9 +3,25 @@
 </p>
 
 <h1 align="center">Hola, soy Felipe! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<h3 align="center">Full Stack Web Developer</h3>
-Soy un desarrollador web Full Stack Junior apasionado por crear soluciones tecnológicas. Estoy en busca de nuevos desafios y oportunidades de trabajo lo cual me permita seguir aprendiendo y creciendo en el desarrollo de aplicaciones.
-Tengo una sólida base de conocimientos y una gran capacidad para aprender rápidamente. Estoy siempre dispuesto a enfrentar nuevos desafíos y continuar creciendo en el mundo de la tecnología. Soy apasionado, dedicado y altamente capaz, y estoy entusiasmado por seguir aprendiendo y desarrollándome en el campo IT.
+<h3 align="center">Full Stack Developer | IT Support Analyst</h3>
+
+Actualmente curso la Tecnicatura en Análisis y Desarrollo de Software, lo que me permite aplicar fundamentos académicos de sistemas a la creación de soluciones web modernas. Mi perfil combina la agilidad del desarrollo con React y Node.js con la experiencia resolutiva de mi rol como Analista de Soporte IT.
+
+Busco integrar mis conocimientos en arquitectura de software y bases de datos en proyectos desafiantes, aportando una visión analítica orientada a la eficiencia y la mejora continua de procesos tecnológicos.
+
+
+
+Formación y Tecnologías:
+
+En curso: Tecnicatura de Análisis y Desarrollo de Software.
+
+Frontend: React, Vite, Tailwind CSS, Javascript.
+
+Backend: Node.js, Express, Sequelize.
+
+Data & Ops: PostgreSQL | Gestión de Sistemas y Soporte IT.
+
+
 <br/>
 <br/>
 
